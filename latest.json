@@ -1,0 +1,7 @@
+{
+  "version": "1.8.0",
+  "update": "Abstractor-1.8.0-update.zip",
+  "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.8.0-update.zip",
+  "releasedAt": "2026-05-04T00:00:00Z",
+  "notes": "Fix from history, fix-section highlight, snapshot per render, reliability improvements."
+}
