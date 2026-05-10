@@ -1,7 +1,7 @@
 {
-  "version": "1.8.1",
-  "update": "Abstractor-1.8.1-update.zip",
-  "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.8.1-update.zip",
-  "releasedAt": "2026-05-04T00:00:00Z",
-  "notes": "Test release — auto-update banner verification."
+  "version": "1.8.2",
+  "update": "Abstractor-1.8.2-update.zip",
+  "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.8.2-update.zip",
+  "releasedAt": "2026-05-10T10:26:12Z",
+  "notes": ""
 }
