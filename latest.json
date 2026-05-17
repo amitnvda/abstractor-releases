@@ -1,7 +1,7 @@
 {
-  "version": "1.8.3",
-  "update": "Abstractor-1.8.3-update.zip",
-  "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.8.3-update.zip",
-  "releasedAt": "2026-05-11T00:00:00Z",
-  "notes": "Critical Windows reliability fix (system prompt now reaches Claude). Advanced Animations panel. Stage-aware progress. 'What Claude built' summary. Grouped fix chips. Header polish."
+  "version": "1.9.0",
+  "update": "Abstractor-1.9.0-update.zip",
+  "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.9.0-update.zip",
+  "releasedAt": "2026-05-17T16:52:47Z",
+  "notes": ""
 }
