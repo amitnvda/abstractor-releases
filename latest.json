@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
-  "update": "Abstractor-1.9.0-update.zip",
-  "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.9.0-update.zip",
-  "releasedAt": "2026-05-17T16:52:47Z",
-  "notes": "Absolute ban on slide-level headlines and subtitles (producers add them manually in AE). Default bullet markers are now rounded dots, not squares. Updated Creative mode tooltip to reflect that it works from text, slides, or any reference media."
+  "version": "1.9.1",
+  "update": "Abstractor-1.9.1-update.zip",
+  "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.9.1-update.zip",
+  "releasedAt": "2026-05-17T17:23:07Z",
+  "notes": ""
 }
