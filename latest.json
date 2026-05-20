@@ -2,6 +2,6 @@
   "version": "1.10.0",
   "update": "Abstractor-1.10.0-update.zip",
   "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.10.0-update.zip",
-  "releasedAt": "2026-05-20T07:18:14Z",
-  "notes": ""
+  "releasedAt": "2026-05-18T22:00:00Z",
+  "notes": "NEW: Edit Text panel (Phase 1+2) lets you rename strings, edit bullet items, add/remove/reorder bullets, then re-render in ~30s with no Claude call. Two-row progress bar (monotonic overall + stage with indeterminate pulse). User-attached logo assets now bypass the default NVIDIA-logo ban. FIXED: renders >16s no longer crash (cap raised to 60s + auto-fix DURATION_FRAMES bug). Click-to-browse in Assets now works (label-for + FileReader staging). Drag-dropped PNG assets actually render. PNG files no longer greyed in file picker. Claude rate-limit detection (429) + backoff up to 4 min. \\u2019-style Unicode escapes properly decoded. CSS junk (transformOrigin, padding) filtered from Edit Text. Smaller, refined bullet markers (3-4px radius). Bullet preservation enforced in Redesign mode."
 }
