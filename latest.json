@@ -1,7 +1,7 @@
 {
-  "version": "1.9.1",
-  "update": "Abstractor-1.9.1-update.zip",
-  "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.9.1-update.zip",
-  "releasedAt": "2026-05-17T20:30:00Z",
-  "notes": "Fixes invisible-title bugs in two flavors: near-white text on transparent backgrounds (#fafafa/#fcfcfc/#f5f5f5 and similar — now caught by validator + banned by prompt rule) and SVG <text fill=\"none\"> (the SVG-syntax cousin — also now caught + banned). Both were producing empty-looking header bars in Redesign renders. 'What Claude built' label renamed to 'What Abstractor built'."
+  "version": "1.10.0",
+  "update": "Abstractor-1.10.0-update.zip",
+  "updateUrl": "https://raw.githubusercontent.com/amitnvda/abstractor-releases/main/Abstractor-1.10.0-update.zip",
+  "releasedAt": "2026-05-20T07:18:14Z",
+  "notes": ""
 }
